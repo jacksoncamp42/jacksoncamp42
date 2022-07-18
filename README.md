@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ A bit about me:
 
-- 🔭 I’m currently working on [full-stack applications ](https://github.com/jacksoncamp42/headstarter target=”\_blank”) @ Headstarter
+- 🔭 I’m currently working on [full-stack applications ](https://github.com/jacksoncamp42/headstarter) @ Headstarter
 
 - 🌱 I’m currently learning **lots of stuff**
 
