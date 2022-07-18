@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">CS Major at Cornell University</h3>
+
 - 🔭 I’m currently working on [full-stack applications](https://github.com/jacksoncamp42/headstarter) @ Headstarter
 
 - 🌱 I’m currently learning **lots of stuff**
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **jec433@cornell.edu**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1PKN4X4xaTxn2_7xBWfLa9jsnGKxv8KOd/view?usp=sharing)
+- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1PKN4X4xaTxn2_7xBWfLa9jsnGKxv8KOd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
