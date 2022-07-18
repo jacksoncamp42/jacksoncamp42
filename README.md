@@ -23,8 +23,8 @@
 ## 📊 My Github Stats
 
 <div align="center">
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksoncamp42&show_icons=true&locale=en&layout=compact" alt="jacksoncamp42" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jacksoncamp42&show_icons=true&locale=en" alt="jacksoncamp42" /></p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<div/>
+    <a><img alt="jacksoncamp42" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksoncamp42&show_icons=true&locale=en&layout=compact" width="490" height="100%"/></a>
+  <a><img alt="jacksoncamp42" src="https://github-readme-stats.vercel.app/api?username=jacksoncamp42&show_icons=true&locale=en" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
