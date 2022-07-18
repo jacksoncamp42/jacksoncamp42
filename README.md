@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">A passionate software develi, CS Major at Cornell University</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksoncamp42&label=Profile%20views&color=0e75b6&style=flat" alt="jacksoncamp42" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacksoncamp42" alt="jacksoncamp42" /></a> </p>
-
-- 🔭 I’m currently working on [full-stack applications at Headstarter](https://github.com/jacksoncamp42/headstarter)
+- 🔭 I’m currently working on [full-stack applications](https://github.com/jacksoncamp42/headstarter) @ Headstarter
 
 - 🌱 I’m currently learning **lots of stuff**
 
-- 👨‍💻 All of my projects are available at [(Soon to come)]((Soon to come))
+- 👨‍💻 All of my projects are available at [Website soom to come](link)
 
 - 📫 How to reach me **jec433@cornell.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PKN4X4xaTxn2_7xBWfLa9jsnGKxv8KOd/view?usp=sharing](https://drive.google.com/file/d/1PKN4X4xaTxn2_7xBWfLa9jsnGKxv8KOd/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1PKN4X4xaTxn2_7xBWfLa9jsnGKxv8KOd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
