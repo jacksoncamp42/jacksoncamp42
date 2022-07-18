@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **lots of stuff**
 
-- 👨‍💻 All of my projects are available at [Website soom to come](link)
+- 👨‍💻 All of my projects are available on my [website (soon to come)](link)
 
 - 📫 How to reach me **jec433@cornell.edu**
 
