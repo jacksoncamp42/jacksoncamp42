@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">A passionate software develi, CS Major at Cornell University</h3>
+<h3 align="center">CS Major at Cornell University</h3>
 - 🔭 I’m currently working on [full-stack applications](https://github.com/jacksoncamp42/headstarter) @ Headstarter
 
 - 🌱 I’m currently learning **lots of stuff**
