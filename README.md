@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">Software Engineer and CS Major @ Cornell University</h3>
+<h3 align="center">CS Major @ Cornell University</h3>
 
 ## 🙋‍♂️ A bit about me:
 
