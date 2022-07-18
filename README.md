@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [full-stack applications ](https://github.com/jacksoncamp42/headstarter) @ Headstarter
 
-- 🌱 I’m currently learning **lots of stuff**
+- 🌱 I’m currently learning **full-stack development**
 
 - 👨‍💻 All of my projects are available on my [website](link) (soon to come)
 
