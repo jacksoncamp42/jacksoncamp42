@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **full-stack development** and **machine learning**
 
-- 👨‍💻 All of my projects are available on my [website](www.jackson.camp)
+- 👨‍💻 All of my projects are available on my [website](https://www.jackson.camp/)
 
 - 📫 Reach me at **jec433@cornell.edu**
 
