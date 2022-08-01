@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **jec433@cornell.edu**
 
-- 📄 Learn about my experiences on my [resume](https://drive.google.com/file/d/1PKN4X4xaTxn2_7xBWfLa9jsnGKxv8KOd/view?usp=sharing)
+- 📄 Learn about my experiences on my [resume](https://drive.google.com/file/d/13TY31weTkAonagAl0etY-LEh4rCdTvjB/view?usp=sharing)
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jackson-camp/)
 
