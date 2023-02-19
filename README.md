@@ -6,7 +6,7 @@
 - Incoming SWE Intern at Morgan Stanley 
 - 🔭 I’m currently working on [full-stack applications ](https://github.com/jacksoncamp42/headstarter) @ Headstarter
 
-- 🌱 Passionate about **full-stack development**, **machine learning**, and **blockchain**
+- 🌱 Passionate about **machine learning**, **full-stack development**,  and **blockchain**
 
 - 👨‍💻 All of my projects are available on my [website](https://www.jackson.camp/)
 
