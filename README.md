@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ A bit about me:
 
-- Incoming SWE Intern at Morgan Stanley 
+- Prev SWE Intern @ Morgan Stanley 
 - 🌱 Passionate about **machine learning**, **full-stack development**,  and **blockchain**
 
 - 👨‍💻 All of my projects are available on my [website](https://www.jackson.camp/)
